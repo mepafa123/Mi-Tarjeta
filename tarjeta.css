@@ -115,3 +115,9 @@ section,.contenido{
         padding-right: 10px;
     }
 }
+@media(max-width: 360px){
+    section,.contenido{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
