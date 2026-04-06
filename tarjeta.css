@@ -10,12 +10,12 @@ body{
     justify-content: center;
     background-color: antiquewhite;
     font-family: Poppins, sans-serif;
-    min-height: 1000px;
+    min-height: 800px;
 }
 .cuerpotarjeta{
     position: absolute;
     width: 90%;
-    min-height: 1000px;
+    min-height: 800px;
     display: flex;
     flex-direction: column;
     align-content: center;
