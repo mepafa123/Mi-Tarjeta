@@ -14,7 +14,7 @@ body{
 }
 .cuerpotarjeta{
     position: absolute;
-    width: 50%;
+    width: 90%;
     min-height: 1000px;
     display: flex;
     flex-direction: column;
@@ -42,7 +42,7 @@ h1{
 hr {
     border: 0;
     height: 5px;
-    background: linear-gradient(to right, transparent, rgba(209, 161, 147, 1), transparent);
+    background: linear-gradient(to right, transparent, antiquewhite, transparent);
     margin: 20px 0;
 }
 section,.contenido{
