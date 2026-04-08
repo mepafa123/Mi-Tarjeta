@@ -66,6 +66,7 @@ section, .contenido {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     padding: 20px 30px; /* Mucho más equilibrado para móviles */
 }
 .boton {
