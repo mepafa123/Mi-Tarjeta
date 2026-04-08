@@ -59,7 +59,9 @@ hr {
     background: linear-gradient(to right, transparent, antiquewhite, transparent);
     margin: 15px 0;
 }
-
+.contactos{
+    margin-bottom: 10px;
+}
 section, .contenido {
     font-weight: 600;
     width: 100%;
